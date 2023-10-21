@@ -1,4 +1,4 @@
-# Sales Application using PHP and MySQL
+# Web Application using PHP and MySQL
 
 This repository contains the source code for a sales application developed using PHP and MySQL.
 
